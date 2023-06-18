@@ -1,1 +1,5 @@
 [2023-06-17 17:13:33,083: INFO: main: Welcome to the custom classifier]
+[2023-06-18 17:01:28,558: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-06-18 17:01:28,566: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-06-18 17:01:28,569: INFO: common: created directory at: artifacts]
+[2023-06-18 17:01:28,572: INFO: common: created directory at: artifacts/data_ingestion]
